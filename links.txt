@@ -8,6 +8,15 @@ JavaScript related links
 
 Links
 =====
+ECMAScript
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/ECMAScript
+
+Standard ECMA-262
+ECMAScript Language Specification
+5th edition (December 2009)
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
 JavaScript
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/JavaScript
