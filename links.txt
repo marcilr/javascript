@@ -1,0 +1,14 @@
+links.txt
+Created Wed Mar 14 08:52:21 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+JavaScript related links
+
+
+Links
+=====
+JavaScript
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/JavaScript
+
